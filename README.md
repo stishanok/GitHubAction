@@ -1,0 +1,1 @@
+Set up a simple auto-published page using [GitHub Pages](https://help.github.com/en/actions/automating-your-workflow-with-github-actions). Add a [GitHub Action](https://github.com/features/actions) to the repository to run `shellcheck` on any shell files in thatrepository (here is [one way to do it](https://github.com/marketplace/actions/shellcheck)). Check that it works!
